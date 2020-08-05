@@ -1,7 +1,11 @@
 #Git beginner
-# V.0.1.2
-print('hello word')
+# V.0.1.3
+print('Hello word!')
 
 class Klasa():
     # Moja klasa
+    pass
+
+def metoda():
+    # Moja Metoda
     pass
