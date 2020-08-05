@@ -9,3 +9,5 @@ class Klasa():
 def metoda():
     # Moja Metoda
     pass
+
+a = 10
