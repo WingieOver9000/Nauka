@@ -1,5 +1,5 @@
 #Git beginner
-# V.0.1.4
+# V.0.1.5
 print('Hello word!')
 
 class Klasa():
@@ -16,3 +16,4 @@ print (a + b)
 
 for i in range(10):
     pass
+name = 'Abc'
