@@ -18,3 +18,5 @@ print (a + b)
 for i in range(10):
     pass
 name = 'Abc'
+name = 'Abc'
+name = 'Abc'
