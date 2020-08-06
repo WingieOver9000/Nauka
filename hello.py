@@ -10,8 +10,9 @@ def metoda():
     # Moja Metoda
     pass
 
-a = 10
-b = 20
+a = 100.00
+b = 200.00
+c = 100.00
 print (a + b)
 
 for i in range(10):
