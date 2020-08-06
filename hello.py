@@ -1,5 +1,5 @@
 #Git beginner
-# V.0.1.3
+# V.0.1.4
 print('Hello word!')
 
 class Klasa():
@@ -13,3 +13,6 @@ def metoda():
 a = 10
 b = 20
 print (a + b)
+
+for i in range(10):
+    pass
